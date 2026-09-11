@@ -1,1 +1,1 @@
-worker: python Ali.py
+worker: python AAA.py
